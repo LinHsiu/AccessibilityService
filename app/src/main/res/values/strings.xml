@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessibilityService</string>
+    <string name="accessibility_label">ShowAccessibilityService</string>
+    <string name="accessibility_description">Open Please</string>
+</resources>
